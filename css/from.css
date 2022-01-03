@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.firstbox{
+    margin: 23px auto;
+    width: 700px;
+    height: 580px;
+    background-color: rgb(195, 199, 202);
+
+}
+.secondbox{
+    /* margin: auto ; */
+    margin-left:125px;
+    width: 450px;
+    height: 10px;
+    background-color: rgb(255, 251, 13);
+}
+
+.thirdbox{
+    margin-top:  -25px ;
+    margin-left:125px;
+    width: 450px;
+    height: 550px;
+    background-color: white;
+}
+
+h2{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+::placeholder{
+    color: lightslategrey;
+}
+.email{
+    border: 1px solid lightslategrey;
+    border-radius: 11px;
+    background-color: white;
+    margin-bottom: 21px;
+    /* text-align: center; */
+    margin-left: 25px;
+    width: 400px;
+    height: 30px;
+    padding: 19px;
+  }
+  .pass{
+    border: 1px solid lightslategrey;
+    border-radius: 11px;
+    background-color: white;
+    margin-bottom: 21px;
+    /* text-align: center; */
+    margin-left: 25px;
+    width: 400px;
+    height: 30px;
+    padding: 19px;
+  }
+ 
+  .re-pass{
+    border: 1px solid lightslategrey;
+    border-radius: 11px;
+    background-color: white;
+    margin-bottom: 21px;
+    /* text-align: center; */
+    margin-left: 25px;
+    width: 400px;
+    height: 30px;
+    padding: 19px;
+  }
+  .firstname{
+    border: 1px solid lightslategrey;
+    border-radius: 11px;
+    background-color: white;
+    margin-bottom: 21px;
+    /* text-align: center; */
+    margin-left: 25px;
+    width: 200px;
+    height: 30px;
+    padding: 19px;
+  }
+  .lastname{
+    border: 1px solid lightslategrey;
+    border-radius: 11px;
+    background-color: white;
+    margin-bottom: 21px;
+    /* text-align: center; */
+    /* margin-left: 25px; */
+    width: 200px;
+    height: 30px;
+    padding: 19px;
+  }
+
+  .male{
+      margin-left: 25px;
+      margin-bottom: 21px;
+      font-size: 23px;
+  }
+  .country{
+    border: 1px solid lightslategrey;
+    border-radius: 11px;
+    background-color: white;
+    margin-bottom: 21px;
+    /* text-align: center; */
+    margin-left: 25px;
+    width: 400px;
+    height: 30px;
+    padding: 19px;
+  }
+
+  .anchor1{
+    color: white;
+    text-decoration: none;
+    background-color:rgb(255, 251, 13) ;
+    }
+    .anchor1:hover{
+        color: blue;
+    }
+
+    .register{
+        border: 1px solid rgb(255, 251, 13) ;
+        border-radius: 11px;
+      
+        background-color:rgb(255, 251, 13) ;
+        margin-bottom: 21px;
+        /* text-align: center; */
+        margin-left: 25px;
+        width: 400px;
+        height: 30px;
+        padding:  0px 19px 19px 19px;
+        font-size: 23px;
+    }

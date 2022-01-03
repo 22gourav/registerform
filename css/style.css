@@ -1,0 +1,140 @@
+/* .twobox{
+    margin: auto;
+background-color: rgb(158, 162, 167);
+width: 80px;
+
+border: 1px solid rgb(158, 162, 167);
+} */
+
+
+
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    box-sizing: border-box;
+}
+
+.firstdiv{
+    margin: 100px  auto;
+background-color: rgb(158, 162, 167);
+width: 600px;
+height: 500px;
+border: 1px solid rgb(158, 162, 167);
+}
+
+.firstform{
+    margin: 10px auto;
+    width: 500px;
+    height: 480px;
+    background-color: rgb(29, 29, 29);
+    border: 1px solid  rgb(29, 29, 29);
+}
+
+.button{
+    width:450px ;
+    height: 40px;
+    margin: 15px auto;
+    border: 1px solid green;
+    
+}
+.singup{
+    width: 50%;
+    height:40px;
+    background-color: green;
+    border: 1px solid green;
+    /* padding: 0 0 0 30px; */
+    font-size: large;
+    color: white;
+}
+.anchor1{
+color: white;
+text-decoration: none;
+}
+.anchor1:hover{
+    color: blue;
+}
+
+.login{
+    width: 50%;
+    height:40px;
+    background-color: lightblue;
+    border: 1px solid lightblue;
+    /* padding: 0 0 0 60px; */
+    font-size: large;
+    color: white;
+}
+
+h2{
+    /* margin: 30px auto; */
+    color: white;
+    text-align: center;
+    font-size:35px ;
+    font-weight: normal;
+}
+ ::placeholder { 
+     color: white;
+     opacity:0.6;
+    
+  }
+  .allinput{
+      
+      text-align: center;
+
+
+  }
+  .firstname{
+      border: 1px solid white;
+      background-color: rgb(29, 29, 29);
+      margin-bottom: 41px;
+      text-align: center;
+      width: 200px;
+      height: 30px;
+      padding: 19px;
+
+
+  }
+  .lastname{
+    border: 1px solid white;
+    background-color: rgb(29, 29, 29);
+    margin-bottom: 41px;
+    margin-left: 8px;
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    padding: 19px;
+  }
+
+  .email{
+    border: 1px solid white;
+    background-color: rgb(29, 29, 29);
+    margin-bottom: 41px;
+    /* text-align: center; */
+    width: 413px;
+    height: 30px;
+    padding: 19px;
+  }
+  .pass{
+    border: 1px solid white;
+    background-color: rgb(29, 29, 29);
+    margin-bottom: 41px;
+    /* text-align: center; */
+    width: 413px;
+    height: 30px;
+    padding: 19px;
+  }
+  .getstarted{
+    border: 1px solid white;
+    background-color: rgb(29, 29, 29);
+    margin-bottom: 41px;
+    /* text-align: center; */
+    width: 413px;
+    height: 35px;
+    padding: 0px 19px;
+    background-color: rgb(63, 141, 18);
+    text-align: center;
+    font-size: large;
+  }
